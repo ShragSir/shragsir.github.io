@@ -1,0 +1,149 @@
+material RainDrop
+{
+    parent Base_particle
+    diffuseMap droplet.png
+}
+material RainDropLong
+{
+    parent Base_particle
+    diffuseMap droplet-long.png
+}
+
+material SnowFlake
+{
+    parent Base_particle
+    diffuseMap snow.png
+}
+
+
+//  Cloud  oOoOOoOoo
+material Cloud1
+{
+    parent Base_particle
+    diffuseMap cloud1.png
+}
+material Cloud2
+{
+    parent Base_particle
+    diffuseMap cloud2.png
+}
+material Cloud3
+{
+    parent Base_particle
+    diffuseMap cloud3.png
+}
+material Cloud4
+{
+    parent Base_particle
+    diffuseMap cloud4.png
+}
+material Cloud5
+{
+    parent Base_particle
+    diffuseMap cloud5.png
+}
+material Cloud6
+{
+    parent Base_particle
+    diffuseMap cloud6.png
+}
+material Cloud7
+{
+    parent Base_particle
+    diffuseMap cloud7.png
+}
+material Cloud8
+{
+    parent Base_particle
+    diffuseMap cloud8.png
+}
+material Cloud9
+{
+    parent Base_particle
+    diffuseMap cloud9.png
+}
+
+
+//  Fire  ~ ~~ ~~ ~  
+material Fire1
+{
+    parent Base_particle
+    scene_blend add
+    fog_en false
+	alpha_rejection none
+    diffuseMap fire1.png
+}
+material Fire2
+{
+    parent Base_particle
+    scene_blend add
+    fog_en false
+	alpha_rejection none
+    diffuseMap fire2.png
+}
+material Fire3
+{
+    parent Base_particle
+    scene_blend add
+    fog_en false
+	alpha_rejection none
+    diffuseMap fire3.png
+}
+
+material Lava1
+{
+    parent Base_particle
+    scene_blend add
+    fog_en false
+	alpha_rejection none
+    diffuseMap lava1.png
+}
+
+
+//  Bubble
+material FluidBubble
+{
+    parent FluidMud
+    diffuseMap bubble.png
+}
+
+material FluidBubbleGrease
+{
+    parent FluidMud
+    diffuseMap bubble-grease.png
+}
+
+material FluidJellyFall
+{
+    parent FluidMud
+    diffuseMap fluid-jelly-waterfall.png
+}
+
+//  Aurora
+material Aurora01
+{
+    parent Base_particle
+    diffuseMap aurora01.png
+	fog_en false
+}
+
+material Aurora02
+{
+    parent Base_particle
+    diffuseMap aurora02.png
+	fog_en false
+}
+
+material Aurora03
+{
+    parent Base_particle
+    diffuseMap aurora03.png
+	fog_en false
+}
+
+material Aurora04
+{
+    parent Base_particle
+    diffuseMap aurora04.png
+	fog_en false
+}

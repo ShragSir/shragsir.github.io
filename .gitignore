@@ -1,0 +1,54 @@
+#--  transl
+#locale/translation/
+*.po
+#.tx
+tx
+*.pot
+sr.log
+#data/gui/core_language_*_tag.xml
+#!*/core_language_en_tag.xml
+
+#--  build
+/*build/
+/build/*
+Debug*
+Release*
+bin
+lib
+CMakeLists.txt.user*
+
+#-- win bin
+*.dll
+*.pdb
+*.exe
+*.lnk
+
+#-- vs crap
+.cache
+*.ncb
+*.suo
+*.user
+
+#-- binaries
+StuntRally*.*
+SR?Editor*.*
+#stuntrally*
+sr-editor*
+
+#--  sr data
+data/ghosts/original
+data/tracks
+data/cars/
+#data/skies
+#data/objects*
+#data/trees
+#data/rocks
+#data/materials/
+#data
+#.vscode
+#tracks.ini
+
+cmake-build-*/
+
+.idea/
+CMakeUserPresets.json

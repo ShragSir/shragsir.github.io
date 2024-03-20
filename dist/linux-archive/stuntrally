@@ -1,0 +1,44 @@
+#!/bin/sh
+
+# Stunt Rally unix launch script
+
+# Function to find the folder this script resides in
+FindPath()
+{
+	# Absolute path to this script, e.g. /home/user/bin/foo.sh
+	SCRIPT=`readlink -f "$0"`
+	# Absolute path this script is in, thus /home/user/bin
+	SCRIPTPATH=`dirname "$SCRIPT"`
+	echo $SCRIPTPATH
+}
+
+LIBPATH="`FindPath $0`/lib"
+BINPATH="`FindPath $0`/bin"
+
+if [ "$(uname -m)" = "x86_64" ]; then
+	LIBPATH="$LIBPATH/64"
+else
+	LIBPATH="$LIBPATH/32"
+fi
+
+export LD_LIBRARY_PATH="$LIBPATH"
+export OGRE_PLUGIN_DIR="$LIBPATH"
+
+if [ "$(uname -m)" = "x86_64" ]; then
+	"$BINPATH/stuntrally_x86_64" $*
+	ret=$?
+	if [ $ret -eq 139 ]; then
+		cat - <<EOHELP
+----------------------------
+This might be a known crash!
+You can try to rename (disable) libstdc++.so.6 with the command:
+
+mv $LIBPATH/libstdc++.so.6 $LIBPATH/libstdc++.so.6.disabled
+
+and call $0 again
+EOHELP
+	fi
+else
+	"$BINPATH/stuntrally_x86" $*
+fi
+

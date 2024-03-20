@@ -1,0 +1,54 @@
+Dirt, Gravel, Mud, PackedDirt ..
+Roof1_N = concrete_norm
+from
+
+Dim's enviromental and architectural textures
+Author: Dim
+License(s): CC-BY 3.0
+https://opengameart.org/content/dims-enviromental-and-architectural-textures
+
+
+100_1450_seamless = concrete1w
+from
+
+Seamless textures
+Author: arikel
+License(s): CC0
+https://opengameart.org/content/seamless-textures
+
+
+old road based on VDrift asphalt
+
+
+roadGlass_crystal.png
+by rubberduck, hex pattern from openclipart
+License: CC0
+
+wall_spring.jpg
+by rubberduck, CC0
+
+roadSpring*
+by rubberduck
+based on roadJDark.jpg mixed with own
+CC-By 3.0 ?
+
+
+new anomaly:
+
+HI_WheelWall*
+based on HI Car texture
+License: CC-BY 4.0,  see cars/HI/about.txt for more detail
+
+pipeGlass_space_anomaly.png
+based on Spc2-SpaceMine track terrain preview (terrain.jpg)
+
+roadAsphaltAnomaly, roadDesertAnomaly, roadMossAnomaly, 
+roadSavannahAnomaly, roadGlass*_anomaly, roadMetal1Anomaly, roadMetal2Anomaly
+based on their original
+
+wall_lava_anomaly based on lava terrain texture
+
+
+
+
+

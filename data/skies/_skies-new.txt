@@ -1,0 +1,69 @@
+---- NEW skies 1 ----
+
+DaySkyHDRI004B*.jpg
+https://ambientcg.com/view?id=DaySkyHDRI004B
+
+DaySkyHDRI011B*.jpg
+https://ambientcg.com/view?id=DaySkyHDRI011B
+
+DaySkyHDRI020B*.jpg
+https://ambientcg.com/view?id=DaySkyHDRI020B
+
+DaySkyHDRI026B*.jpg
+https://ambientcg.com/view?id=DaySkyHDRI026B
+
+DaySkyHDRI031B*.jpg
+https://ambientcg.com/view?id=DaySkyHDRI031B
+
+Rest *_2 etc colored versions from them
+
+License: CC0
+https://docs.ambientcg.com/license/
+More:
+https://ambientcg.com/list?type=HDRI
+
+---- NEW skies 2 ----
+aristea_wreck01.jpg
+https://polyhaven.com/a/aristea_wreck_puresky
+
+belfast_sunset01.jpg  belfast_sunset02.jpg
+https://polyhaven.com/a/belfast_sunset_puresky
+
+farm_field01.jpg
+https://polyhaven.com/a/farm_field_puresky
+
+kloofendal01.jpg
+https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky
+
+kloppenheim01.jpg
+https://polyhaven.com/a/kloppenheim_07_puresky
+
+kloppenheim02_a.jpg  kloppenheim02_b.jpg
+https://polyhaven.com/a/kloppenheim_02_puresky
+
+mud_road01.jpg  mud_road02.jpg
+https://polyhaven.com/a/mud_road_puresky
+
+License: CC0
+More:
+https://polyhaven.com/hdris
+
+
+------------ HDRI based
+
+skies from CC0 HDRIs above, more or less modified
+
+sky_anomaly_*.jpg
+modified using G'MIC
+
+
+-------------- procedural
+
+space_nebula_01.jpg
+
+Self created in Blender, with big thanks to Samuel Krug VFX
+https://www.youtube.com/watch?v=v6pULIv8sZA
+and with a noise from Simon Thommes Noise Pack (CC0)
+https://simonthommes.gumroad.com/l/NOISE-P
+
+For fairness licensed under CC-BY-SA 4.0 to credit Samuel Krug VFX for the wonderful nebula tutorial

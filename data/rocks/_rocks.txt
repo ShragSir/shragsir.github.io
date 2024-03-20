@@ -1,0 +1,80 @@
+
+Models:     cave_* and rock_*.mesh
+made by rubberduck from these:
+
+5 Models:	rock_n1 - n5.mesh
+Url:		https://opengameart.org/content/rocks-0
+Artist:		yughues
+License:	CC0
+Date:		29/08/2012
+and also made more color variants from them
+
+
+Model:		rock.mesh  1rock*.png
+Url:		https://www.blendswap.com/blends/landscapes/toddmcintosh_nature_rocks2/
+Artist:		tmcintosh
+License:	CC-BY
+Date:		02/08/2012
+Notes:		Texture by yughues (OpenGameArt user) [under CC0]
+
+
+Model:		crystal
+Low Poly Rock Formation
+Url:		https://www.blendswap.com/blend/11024
+Artist:		OliverMH
+License:    CC-BY
+Date:		05/12/2013
+including color variants
+
+Low Poly Rock Formation 2
+Url:		https://www.blendswap.com/blend/11147
+Artist:		OliverMH
+License:    CC-0
+Date:		16/12/2013
+including color variants
+
+
+Models:		rock01* - rock46*.mesh
+Lowpoly Rocks - 1
+Url:		https://sketchfab.com/3d-models/lowpoly-rocks-1-d9ffac943bb24a609c1082c1aa118d76
+Artist:		Loïc Norgeot
+License:    CC BY 4.0
+Date:		08/05/2018
+
+
+Models:		hexcave* - hexrock*.mesh
+Artist:		rubberduck
+License:    CC0
+Date:		29/05/2023
+
+models self made,
+textured with own textures and CC0 textures from https://ambientcg.com and https://polyhaven.com
+
+https://ambientcg.com/view?id=Rock023
+https://ambientcg.com/view?id=Rock025
+https://ambientcg.com/view?id=Pipe004
+https://ambientcg.com/view?id=Tiles064
+https://ambientcg.com/view?id=Tiles070
+https://polyhaven.com/a/rock_06
+
+Models: 	*_anomaly.mesh
+Artists: 	Various (edited by rubberduck)
+Licenses: 	same as original used in SR 
+Date: 		29/10/2023
+
+
+Model:		crystal3
+Url:		https://sketchfab.com/3d-models/crystal-dc521f0925fb4f67b969d53e001d5bfe
+Artist:		SebastianSosnowski
+License:    CC-BY 4.0
+including color variants
+
+Model:		crystal_flower
+Url:		https://sketchfab.com/3d-models/crystal-flowers-2d8bcf463c9d4128bdc1a7abc7096d4d
+Artist:		C.anton
+License:    CC-BY 4.0
+including color variants
+
+
+crystal 4 based on crystal model (crystal1.mesh)
+
